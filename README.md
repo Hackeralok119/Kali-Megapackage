@@ -76,7 +76,7 @@ $ m-pkg
 ####  If Like This Tool Dont Donate Just a Subscribe will be Awseome!!! 
 ## Development by :-
 
-## Developer / Author: Alok / [Bhavik Oza](https://github.com/Bhaviktutorials/)
+## Developer / Author: Alok / [Hacker alok](https://github.com/Hackeralok119/)
 
 ## Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
 
