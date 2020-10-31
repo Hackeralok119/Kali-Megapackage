@@ -28,11 +28,11 @@ $ termux-setup-storage
 
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/Termux-Megapackage
+$ git clone https://github.com/Hackeralok119/Kali---Megapackage
 
 $ ls
 
-$ cd Termux-Megapackage
+$ cd Kali---Megapackage
 
 $ ls
 
