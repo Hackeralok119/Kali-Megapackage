@@ -43,7 +43,7 @@ $ ./install.sh
 $ m-pkg
 ```
 #### For Video Tutorial:-
-[YouTube](https://youtu.be/7xZFg67y1Ug)
+[YouTube](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg)
 
 
  #### You can download the required package as per your need :)
