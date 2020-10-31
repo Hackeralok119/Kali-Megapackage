@@ -71,7 +71,7 @@ $ m-pkg
  20. *_Fakeroot_*
  ### Screenshots
  After Installing _Termux-Megapackage_:-
-![Screenshot_20200914_161120](https://user-images.githubusercontent.com/64035221/93076611-3ce68b00-f6a5-11ea-8e3e-8e8fd009a2e3.jpg)
+![Screenshot_2020-10-31-14-08-25-297_com termux](https://user-images.githubusercontent.com/70144305/97775081-989ca300-1b83-11eb-87ce-a99158e5d176.jpg)
 ***
 ####  If Like This Tool Dont Donate Just a Subscribe will be Awseome!!! 
 ## Development by :-
