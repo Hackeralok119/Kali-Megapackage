@@ -72,6 +72,7 @@ $ m-pkg
  ### Screenshots
  After Installing _Termux-Megapackage_:-
 ![Screenshot_2020-10-31-14-08-25-297_com termux](https://user-images.githubusercontent.com/70144305/97775081-989ca300-1b83-11eb-87ce-a99158e5d176.jpg)
+![Screenshot_2020-10-31-14-20-07-868_com termux](https://user-images.githubusercontent.com/70144305/97775133-4445f300-1b84-11eb-9322-f64711a0919c.jpg)
 ***
 ####  If Like This Tool Dont Donate Just a Subscribe will be Awseome!!! 
 ## Development by :-
