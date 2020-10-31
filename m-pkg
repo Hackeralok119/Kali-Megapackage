@@ -2,8 +2,8 @@
 
 ############################################
 #        Project : T-Megapackage           #
-#          author : Ashish                 #
-#  EMAIL : ashishsingh103020@gmail.com     #
+#          author : ALOK.                  #
+#  EMAIL : freesubscribe59@gmail.com.      #
 ############################################
 
 clear
@@ -12,8 +12,8 @@ echo "
           █▀▄▀█ █▀▀ █▀▀ ▄▀█ █▀█ ▄▀█ █▀▀ █▄▀ ▄▀█ █▀▀ █▀▀
           █ ▀ █ ██▄ █▄█ █▀█ █▀▀ █▀█ █▄▄ █ █ █▀█ █▄█ ██▄
 	                                                V 1.0" | lolcat	      
-echo "                   >>> created by:-A S H I S H " |lolcat
-echo "              >>> Keep Supporting:-bhaviktutorials " |lolcat
+echo "                   >>> created by:-A L O K.  " |lolcat
+echo "              >>> Keep Supporting:-HackerAlok.  " |lolcat
 echo " "
 echo -e "\e[92m=======================================================================\e[m "
 echo -e "\e[32m[\e[33m01\e[32m]\e[96m zphisher \e[m                      \e[32m[\e[33m11\e[32m]\e[96m ubuntu-in-termux \e[m "                  
