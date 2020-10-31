@@ -78,7 +78,7 @@ $ m-pkg
 
 ## Developer / Author: Alok / [Hacker alok](https://github.com/Hackeralok119/)
 
-## Company: [Bhavik Tutorials](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg)
+## Company: [Hacker alok](https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg)
 
 
 ## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:
