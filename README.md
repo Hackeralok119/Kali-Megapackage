@@ -11,7 +11,7 @@
   <a href="https://github.com/Hackeralok119/Termux-Megapackage"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
 <a href="https://github.com/Bhaviktutorials"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/Termux-Megapackage" ></a>
   <a href="https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Master Of Technology-green"/></a>
-  <a href="https://instagram.com/Hacker.alok1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hacker.Alok1-Blue"/></a>
+  <a href="https://instagram.com/Hackeralok2.0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hackeralok2.0-Blue"/></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
